@@ -8,7 +8,7 @@ import { SiMicrosoft, SiMongodb, SiUdemy, SiLeetcode, } from "react-icons/si";
 function EducationAndExperience() {
   return (
       <>
-    <section id="education-and-experience" className="mt-20 mx-4 lg:mx-20 mb-20 flex flex-col md:flex-row gap-4 md:gap-2">
+    <section id="education-and-experience" className="mt-15 mx-4 lg:mx-20 mb-20 flex flex-col md:flex-row gap-4 md:gap-2">
       {/* =========== EDUCATION =========== */}
       <div className="w-full md:w-[80%]">
         {/* =========== EDUCATION TITLE =========== */}
