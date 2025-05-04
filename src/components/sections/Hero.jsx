@@ -33,13 +33,15 @@ function Hero() {
                   Projects
                 </a>
                 <a
-                    href="#projects"
+                    href="https://drive.google.com/uc?export=download&id=1jVD9PY3YxhH5k4CcgyuNmkGNz466pEPn"
                     className="px-5 py-2 border border-black hover:bg-red-800 hover:text-white hover:border-red-800 dark:border-white font-medium transition-all duration-300 text-sm sm:text-base"
+                    target="_blank"
+                    rel="noopener noreferrer"
                 >
                   Download CV
                 </a>
                 <a
-                    href="#projects"
+                    href="#contact"
                     className="px-5 py-2 border border-black hover:bg-red-800 hover:text-white hover:border-red-800 dark:border-white font-medium transition-all duration-300 text-sm sm:text-base"
                 >
                   Contact
