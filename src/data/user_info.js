@@ -90,9 +90,20 @@ const info = {
     // ============ EXPERIENCE ============
     experience: [
         {
+            position: "Software Developer",
+            company: "Primasoft Technologies LTD",
+            duration: "Jun 2023 - July 2025",
+            image: "cartrabbit.png",
+            descriptions: [
+              "Developed and maintained scalable eCommerce web applications using modern web technologies.",
+  			  "Collaborated with cross-functional teams to design, build, and deploy new features for improved user experience.",
+  			  "Optimized application performance and implemented secure payment integrations."
+            ]
+        },
+		{
             position: "Software Engineer",
             company: "Cartrabbit",
-            duration: "Jun 2023 - Present",
+            duration: "Jun 2023 - July 2025",
             image: "cartrabbit.png",
             descriptions: [
                 "Built and maintained SaaS applications and WooCommerce plugins using Laravel (backend) and React.js (frontend), with API integrations and Redis caching.",
