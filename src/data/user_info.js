@@ -2,7 +2,7 @@ const info = {
     // ============ MAIN DETAILS ============
     main: {
         name: "Ajay Mathesh B",
-        description: "I'm a software engineer with 2 years of experience as a full stack developer. I specialize in building secure, scalable applications using modern frameworks. I enjoy solving real-world problems, writing clean code, and continuously improving my skills by following industry best practices.",
+        description: "I'm a software engineer with 2.4 years of experience as a full stack developer. I specialize in building secure, scalable applications using modern frameworks. I enjoy solving real-world problems, writing clean code, and continuously improving my skills by following industry best practices.",
         role: "Full-Stack Developer",
         photo: "../ajay.jpg",
         email: "ajaymatheshb@gmail.com",
@@ -92,8 +92,8 @@ const info = {
         {
             position: "Software Developer",
             company: "Primasoft Technologies LTD",
-            duration: "Jun 2023 - July 2025",
-            image: "cartrabbit.png",
+            duration: "Aug 2025 - Present",
+            image: "primasoft.png",
             descriptions: [
               "Developed and maintained scalable eCommerce web applications using modern web technologies.",
   			  "Collaborated with cross-functional teams to design, build, and deploy new features for improved user experience.",
